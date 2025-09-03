@@ -16,6 +16,7 @@ The X4 design uses the standard OpenSiPM power supply and bias generator boards.
 Zemax simulation for non-descanned detection using the 4 channel SiPM board and the prescription for the lens array used can be found [here](https://github.com/OpenSiPM/sipm-array/tree/main/Zemax). 
 
 # publication
-A manuscript is forthcoming.  
+[High area and volumetric throughput parallel two-photon fluorescence microscopy using silicon photomultiplier arrays
+](https://opg.optica.org/prj/fulltext.cfm?uri=prj-13-9-2704&id=576221)
 
 
